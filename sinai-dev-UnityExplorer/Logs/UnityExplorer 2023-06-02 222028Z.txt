@@ -1,0 +1,36 @@
+UnityExplorer 4.8.2 initializing...
+[UniverseLib] UniverseLib 1.4.3 initializing...
+[UniverseLib] Finished UniverseLib initial setup.
+[UniverseLib] Initialized new InputSystem support.
+[UniverseLib] Loaded modern bundle for Unity 2019.3.15f1
+[UniverseLib] Exception enabling InputSystem UI Input Module: System.NullReferenceException: Object reference not set to an instance of an object
+  at UniverseLib.Input.InputSystem.ActivateModule () [0x00078] in <6adac032a2ef4fc5bbb16fcf96cb2b88>:0 
+[UniverseLib] UniverseLib 1.4.3 initialized.
+Creating UI...
+
+UnityExplorer 4.8.2 (Mono) initialized.
+[UniverseLib] Exception enabling InputSystem UI Input Module: System.NullReferenceException: Object reference not set to an instance of an object
+  at UniverseLib.Input.InputSystem.ActivateModule () [0x00078] in <6adac032a2ef4fc5bbb16fcf96cb2b88>:0 
+[UniverseLib] The target UnityEngine.Object was destroyed!
+[UniverseLib] The target UnityEngine.Object was destroyed!
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
+Cannot parse argument 'playerId' (Int32), FormatException: Input string was not in a correct format.
